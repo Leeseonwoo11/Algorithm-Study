@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "this is laptop!\n";
+    std::cout << "this is a laptop ! \n";
+	std::cout << " this is a desktop ! \n";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
